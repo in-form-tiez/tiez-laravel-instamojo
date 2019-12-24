@@ -1,5 +1,5 @@
 {
-    "name": "in-form-tiez/Tiezlaravelinstamojo",
+    "name": "in-form-tiez/tiezlaravelinstamojo",
     "description": "Instamojo payment gateway",
     "type": "library",
     "require": {
