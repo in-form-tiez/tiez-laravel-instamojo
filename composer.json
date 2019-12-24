@@ -1,10 +1,9 @@
 {
     "name": "in-form-tiez/tiezlaravelinstamojo",
     "description": "Instamojo payment gateway",
-    "type": "library",
     "require": {
-        "illuminate/support": "^5.8",
-        "illuminate/database": "^5.8"
+        "illuminate/support": "~5|~6",
+        "illuminate/database": "~5|~6"
     },
     "authors": [
         {
@@ -12,6 +11,7 @@
             "email": "form@tiez.nl"
         }
     ],
+    "homepage": "https://github.com/in-form-tiez/tiez-laravel-instamojo",
     "autoload": {
         "psr-4": {
             "InFormTiez\\Tiezlaravelinstamojo\\": "src/"
