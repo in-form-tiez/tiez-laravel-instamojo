@@ -18,5 +18,12 @@
         "psr-4":{
             "InFormTiez\\TiezLaravelInstamojo\\":"src/"
         }
+    },
+    "extra":{
+        "laravel":{
+            "providers":[
+                "InFormTiez\\TiezLaravelInstamojo\\InstamojoServiceProvider"
+            ]
+        }
     }
 }
