@@ -1,3 +1,5 @@
+[![Latest Version](https://img.shields.io/github/issues/in-form-tiez/tiez-laravel-instamojo?style=flat-square)](https://github.com/in-form-tiez/tiez-laravel-instamojo/releases)
+
 # Laravel-Instamojo
 Laravel 5 Package for InstaMojo Payment Gateway
 
