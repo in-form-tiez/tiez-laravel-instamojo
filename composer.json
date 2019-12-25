@@ -1,0 +1,22 @@
+{
+    "name": "in-form-tiez/tiez-laravel-instamojo",
+    "description": "Package for Instamojo Payment gateway",
+    "type": "library",
+    "require": {
+        "illuminate/database": "~5|~6",
+        "illuminate/support": "~5|~6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tiez interactive pvt ltd",
+            "email": "form@tiez.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "InFormTiez\\TiezLaravelInstamojo\\":"src/"
+        }
+    }
+}
