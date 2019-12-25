@@ -1,5 +1,4 @@
 <p align="center">
-<a href="https://packagist.org/packages/in-form-tiez/tiez-laravel-instamojo"><img src="https://poser.pugx.org/in-form-tiez/tiez-laravel-instamojo/v/stable" alt="Latest Stable Version"></a>
 <a href="https://github.com/in-form-tiez/tiez-laravel-instamojo/blob/master/LICENSE"><img src="https://poser.pugx.org/in-form-tiez/tiez-laravel-instamojo/license" alt="License"></a>
 </p>
 
