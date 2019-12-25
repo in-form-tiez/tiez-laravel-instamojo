@@ -13,7 +13,7 @@
             "email": "form@tiez.nl"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload":{
         "psr-4":{
             "InFormTiez\\TiezLaravelInstamojo\\":"src/"
